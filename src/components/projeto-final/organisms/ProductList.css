@@ -1,0 +1,26 @@
+.produtos {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 24px;
+}
+
+.produtos ul {
+  list-style: none;
+  padding: 0;
+}
+
+.produtos li {
+  padding: 12px;
+  margin-bottom: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.produtos-acoes {
+  display: flex;
+  gap: 8px;
+}

@@ -1,0 +1,22 @@
+.btn {
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: white;
+}
+
+.btn-primario {
+  background-color: #2563eb;
+}
+.btn-primario:hover {
+  background-color: #1d4ed8;
+}
+
+.btn-perigo {
+  background-color: #dc2626;
+}
+
+.btn-sucesso {
+  background-color: #16a34a;
+}

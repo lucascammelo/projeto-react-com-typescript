@@ -1,0 +1,11 @@
+.filtro {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  max-width: 700px;
+  margin: 0 auto 20px;
+}
+
+.filtro-autocomplete {
+  flex: 1;
+}
